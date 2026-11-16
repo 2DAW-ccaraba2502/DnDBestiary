@@ -1,0 +1,73 @@
+body {
+    font-family: Georgia, serif;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1rem;
+    background: #f4ecd8;
+    color: #2b1d0e;
+}
+
+h1 {
+    text-align: center;
+    color: #7a200d;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+#lista {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bestia {
+    margin: 1%;
+    border: 2px black solid;
+    border-radius: 10px;
+    padding: 2%;
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.bestiaImg {
+    background-color: #7a200d;
+    width: 20%;
+    min-height: 100px;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    border-radius: 5px;
+}
+
+.bestiaInfo {
+    background-color: #f4ecd8;
+    width: 80%;
+    min-height: 100px;
+    padding-left: 40px;
+    justify-content: center;
+    align-content: center;
+    font-size: 30px;
+}
+
+.tarjeta {
+    background-color: #2b1d0e;
+    border: 1px solid #7a200d;
+    border-radius: 6px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.tarjeta h2 {
+    margin-top: 0;
+    color: #7a200d;
+}

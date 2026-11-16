@@ -1,0 +1,42 @@
+[
+  {
+    "id": "0",
+    "name": "Wybern",
+    "size": "Grande",
+    "type": "Dragon?",
+    "ca": 14,
+    "pg": 37,
+    "vd": 1,
+    "description": "Una especie mestiza de los ancestrales dragones de las leyendas. Solo patas y alas, sin brazos a diferencia d elos dragones"
+  },
+  {
+    "id": "1",
+    "name": "Troll",
+    "size": "Enorme",
+    "type": "Humanoide",
+    "ca": 15,
+    "pg": 7,
+    "vd": "1/4",
+    "description": "Una enorme criatura salvaje con gran poder físico y con posibilidad de realizar magias oscuras"
+  },
+  {
+    "id": "2",
+    "name": "Bandido",
+    "size": "Normal",
+    "type": "Humano",
+    "ca": 15,
+    "pg": 7,
+    "vd": "1/4",
+    "description": "Especie dominante del reino, con distintas alianzas con varias especies"
+  },
+  {
+    "id": "1",
+    "name": "Troll",
+    "size": "Enorme",
+    "type": "Humanoide",
+    "ca": 15,
+    "pg": 7,
+    "vd": "1/4",
+    "description": "Una enorme criatura salvaje con gran poder físico y con posibilidad de realizar magias oscuras"
+  }
+]
